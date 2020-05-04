@@ -1,0 +1,3 @@
+[submodule "Unity/Tools/librealsense"]
+	path = Unity/Tools/librealsense
+	url = https://github.com/IntelRealSense/librealsense.git
